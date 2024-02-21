@@ -1,0 +1,2 @@
+--this is a gen for discord made in python
+--just put a number for example 5 to choose what tool u wanna use
